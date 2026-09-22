@@ -1,6 +1,6 @@
 # Tang Chee Heng
 
-Technical Co-Founder · AI Systems & Automation Engineer · DeFi Protocol Engineer
+AI Systems & Automation Engineer · DeFi Protocol Engineer
 
 I build production AI systems, workflow automations, and operational software for real businesses. I am a technical co-founder at [Zedech Solutions](https://www.zedech.com/), where I lead engineering across AI agents, internal platforms, data pipelines, and customer-facing products. I am also a co-founder and protocol engineer at Polystream.
 
